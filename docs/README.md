@@ -13,3 +13,7 @@ AI助手 艾瑞
 
 https://nav-web.luomor.com
 ```
+
+```shell
+Your Photoshop trial has ended
+```

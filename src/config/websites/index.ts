@@ -23,7 +23,8 @@ export interface IMenuItem {
   subMenu: {
     title: string
     links: ILink[]
-  }[]
+  }[],
+  links: ILink[]
 }
 
 /** 菜单导航数据 */
@@ -40,5 +41,10 @@ export const menus: IMenuItem[] = [
 
 /** 链接汇总，供查找 */
 export const AllLinks = menus.reduce((acc, item) => {
-  return [...acc, ...item.subMenu.map((it) => it.links).flat(2)]
+  let links : ILink[]
+  if(item.subMenu) {
+    return [...acc, ...item.subMenu.map((it) => it.links).flat(2)]
+  } else {
+    return [...acc, ...item.links]
+  }
 }, [] as ILink[])
