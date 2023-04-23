@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "cSpell.words": [
+    "bumpp",
+    "changelogithub",
+    "originjs",
+    "unplugin",
+    "vueuse"
+  ]
+}

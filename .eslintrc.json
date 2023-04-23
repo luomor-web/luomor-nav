@@ -1,0 +1,6 @@
+{
+  "extends": ["@luomor-web"],
+  "rules": {
+    "no-console": "warn"
+  }
+}
