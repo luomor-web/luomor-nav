@@ -152,7 +152,7 @@ packages:
     dev: true
 
   /@yiluxiangbei/eslint-config-ts/1.0.7_e24lxsqdqt3oba6r3j443w4ftm:
-    resolution: {integrity: sha512-+HkwP+dATIpeDaDlv53yn/GFMXNaFKMwruoE6r1Gi68Xnp4ecHMpoaPvnfJLLrm37vEgvWA4gHsyX6+Xb0xuZQ==}
+    resolution: {integrity: sha512-rVEOM0eNEIhGDYI5bsmPlPrOR34u+9hLsX9hO1sxNo5W5f0RMBmVeEq7EtArMKIVE4yp8eDOiKZwiYmPRJlTJQ==}
     peerDependencies:
       eslint: ^8.25.0
       typescript: '>=3'
