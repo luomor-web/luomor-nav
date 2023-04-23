@@ -169,7 +169,7 @@ packages:
     dev: true
 
   /@yiluxiangbei/eslint-config/1.0.7_e24lxsqdqt3oba6r3j443w4ftm:
-    resolution: {integrity: sha512-qFryuabN6evzghIRjHYXHeeBsxNQHAEFKDTR7cERSpRUybC/fjTNIq8fIWUXM3K5SlY7b9VjE9FsDbD2bGNxEw==}
+    resolution: {integrity: sha512-gmS3hPlSFlzen82xYGDZK+zbpbmVWAdrxFqn7HQz6ZLt7xlhwucBpAUJeHYoPZ6unK4Aaj02TKe6igMd/3mj3g==}
     peerDependencies:
       eslint: ^8.25.0
     dependencies:
