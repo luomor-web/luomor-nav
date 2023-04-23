@@ -10,4 +10,6 @@ ai写作工具
 
 AI助手 艾瑞
 大模型 艾瑞
+
+https://nav-web.luomor.com
 ```

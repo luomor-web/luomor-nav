@@ -68,7 +68,6 @@ const sideMenus = props.menus.concat({
       :section="section"
     />
     <About />
-    <Feedback />
     <Footer />
   </div>
   <div
