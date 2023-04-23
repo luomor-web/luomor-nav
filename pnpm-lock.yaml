@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@luomor-web/eslint-config': ^1.0.7
+  '@yiluxiangbei/eslint-config': ^1.0.7
   '@originjs/vite-plugin-content': 1.0.1
   '@vitejs/plugin-vue': 3.0.1
   '@vueuse/core': ^9.0.0
@@ -23,7 +23,7 @@ dependencies:
   vue: 3.2.37
 
 devDependencies:
-  '@luomor-web/eslint-config': 1.0.7_e24lxsqdqt3oba6r3j443w4ftm
+  '@yiluxiangbei/eslint-config': 1.0.7_e24lxsqdqt3oba6r3j443w4ftm
   '@originjs/vite-plugin-content': 1.0.1
   '@vitejs/plugin-vue': 3.0.1_vite@3.0.4+vue@3.2.37
   '@vueuse/head': 0.9.8_vue@3.2.37
@@ -132,7 +132,7 @@ packages:
     resolution: {integrity: sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==}
     dev: true
 
-  /@luomor-web/eslint-config-base/1.0.7_wxl73crssqyn53a53m4lurcvri:
+  /@yiluxiangbei/eslint-config-base/1.0.7_wxl73crssqyn53a53m4lurcvri:
     resolution: {integrity: sha512-e5Po/RPR64sTqNjm3rwUe7koysTbcm0Qa5BSzDrlQK2JUkKajxnGj/MKpqEeik6+Kd5Mt3tQ+ox/3ZqORBf4QQ==}
     peerDependencies:
       eslint: ^8.25.0
@@ -151,13 +151,13 @@ packages:
       - supports-color
     dev: true
 
-  /@luomor-web/eslint-config-ts/1.0.7_e24lxsqdqt3oba6r3j443w4ftm:
+  /@yiluxiangbei/eslint-config-ts/1.0.7_e24lxsqdqt3oba6r3j443w4ftm:
     resolution: {integrity: sha512-+HkwP+dATIpeDaDlv53yn/GFMXNaFKMwruoE6r1Gi68Xnp4ecHMpoaPvnfJLLrm37vEgvWA4gHsyX6+Xb0xuZQ==}
     peerDependencies:
       eslint: ^8.25.0
       typescript: '>=3'
     dependencies:
-      '@luomor-web/eslint-config-base': 1.0.7_wxl73crssqyn53a53m4lurcvri
+      '@yiluxiangbei/eslint-config-base': 1.0.7_wxl73crssqyn53a53m4lurcvri
       '@typescript-eslint/eslint-plugin': 5.42.1_2z56xwfzgspmsapz7mk2qroopq
       '@typescript-eslint/parser': 5.42.1_e24lxsqdqt3oba6r3j443w4ftm
       eslint: 8.25.0
@@ -168,12 +168,12 @@ packages:
       - supports-color
     dev: true
 
-  /@luomor-web/eslint-config/1.0.7_e24lxsqdqt3oba6r3j443w4ftm:
+  /@yiluxiangbei/eslint-config/1.0.7_e24lxsqdqt3oba6r3j443w4ftm:
     resolution: {integrity: sha512-qFryuabN6evzghIRjHYXHeeBsxNQHAEFKDTR7cERSpRUybC/fjTNIq8fIWUXM3K5SlY7b9VjE9FsDbD2bGNxEw==}
     peerDependencies:
       eslint: ^8.25.0
     dependencies:
-      '@luomor-web/eslint-config-ts': 1.0.7_e24lxsqdqt3oba6r3j443w4ftm
+      '@yiluxiangbei/eslint-config-ts': 1.0.7_e24lxsqdqt3oba6r3j443w4ftm
       eslint: 8.25.0
     transitivePeerDependencies:
       - eslint-import-resolver-typescript

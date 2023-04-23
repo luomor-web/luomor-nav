@@ -1,5 +1,5 @@
 {
-  "extends": ["@luomor-web"],
+  "extends": ["@yiluxiangbei"],
   "rules": {
     "no-console": "warn"
   }
