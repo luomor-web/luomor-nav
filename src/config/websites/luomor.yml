@@ -120,11 +120,11 @@ subMenu:
       - title: 中国色
         description: 中国色
         url: https://apps.luomor.com/chinese-color/
-        logo: ""
+        logo: "https://apps.luomor.com/chinese-color/img/favicon.ico"
       - title: AR-Emoji
         description: AR-Emoji
         url: https://apps.luomor.com/emoji-scavenger-hunt/
-        logo: ""
+        logo: "https://apps.luomor.com/emoji-scavenger-hunt/img/favicon.ico"
       - title: 红包
         description: 红包
         url: https://apps.luomor.com/foolredpacket/
@@ -160,7 +160,7 @@ subMenu:
       - title: summary-2020
         description: summary-2020
         url: https://apps.luomor.com/summary-2020/
-        logo: ""
+        logo: "https://apps.luomor.com/summary-2020/favicon.ico"
       - title: 圣诞节
         description: 圣诞节
         url: https://apps.luomor.com/xmas2021/
