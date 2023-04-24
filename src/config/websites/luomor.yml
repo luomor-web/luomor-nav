@@ -37,6 +37,14 @@ subMenu:
         logo: ""
       - title: 心
         description: 心
+        url: https://games.luomor.com/valentine/
+        logo: ""
+      - title: 心
+        description: 心
+        url: https://games.luomor.com/valentine2/
+        logo: ""
+      - title: 心
+        description: 心
         url: https://games.luomor.com/valentine3/
         logo: ""
       - title: 坦克大战（pc）
@@ -50,6 +58,38 @@ subMenu:
       - title: 翻牌
         description: 翻牌
         url: https://games.luomor.com/memory/
+        logo: ""
+      - title: 一起答题（mobile）
+        description: 一起答题（mobile）
+        url: https://games.luomor.com/quiz-game
+        logo: ""
+      - title: 俄罗斯方块
+        description: 俄罗斯方块
+        url: https://games.luomor.com/tetris/
+        logo: ""
+      - title: 合成
+        description: 合成
+        url: https://games.luomor.com/big-watermelon/
+        logo: ""
+      - title: 口红游戏
+        description: 口红游戏
+        url: https://games.luomor.com/lipstick-game/
+        logo: ""
+      - title: 心
+        description: 心
+        url: https://games.luomor.com/most-loving-day/heart.html
+        logo: ""
+      - title: 贪吃蛇（pc）
+        description: 通过人脸控制
+        url: https://games.luomor.com/snake-face-control/
+        logo: ""
+      - title: 抢红包
+        description: 抢红包
+        url: https://games.luomor.com/car/
+        logo: ""
+      - title: 猪了个猪
+        description: 猪了个猪
+        url: https://games.luomor.com/zhulegezhu
         logo: ""
   - title: Web应用
     links:
