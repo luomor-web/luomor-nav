@@ -28,7 +28,7 @@ defineProps({
               <LazyloadImage
                 :src="
                   link.logo
-                    ? `/assets/logos/${link.logo}`
+                    ? link.logo.indexOf('http') == 0 ? `${link.logo}` : `/assets/logos/${link.logo}`
                     : '/default-link.png'
                 "
                 :alt="link.title"

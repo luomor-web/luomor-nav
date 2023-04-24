@@ -12,6 +12,9 @@ AI助手 艾瑞
 大模型 艾瑞
 
 https://nav-web.luomor.com
+
+https://games.luomor.com/qixi-my-2022/
+https://games.luomor.com/valentine4/
 ```
 
 ```shell

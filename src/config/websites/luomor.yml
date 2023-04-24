@@ -19,6 +19,40 @@ subMenu:
         logo: "https://tb.luomor.com/favicon.ico"
   - title: 游戏
     links:
+      - title: 2048
+        description: 2048
+        url: https://games.luomor.com/2048/
+        logo: ""
+      - title: 3D魔方
+        description: 3D魔方
+        url: https://games.luomor.com/cuber/
+        logo: ""
+      - title: 算数
+        description: 算数
+        url: https://games.luomor.com/math/
+        logo: ""
+      - title: 甜言蜜语
+        description: 甜言蜜语
+        url: https://games.luomor.com/sweet-words
+        logo: ""
+      - title: 心
+        description: 心
+        url: https://games.luomor.com/valentine3/
+        logo: ""
+      - title: 坦克大战（pc）
+        description: 坦克大战（pc）
+        url: https://games.luomor.com/battle-city/
+        logo: ""
+      - title: 猜灯谜（pc）
+        description: 猜灯谜（pc）
+        url: https://games.luomor.com/lantern-festival/riddles.html
+        logo: ""
+      - title: 翻牌
+        description: 翻牌
+        url: https://games.luomor.com/memory/
+        logo: ""
+  - title: Web应用
+    links:
       - title: soundraw
         description: AI为你生成免版税音乐
         url: https://soundraw.io/
