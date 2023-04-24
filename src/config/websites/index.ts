@@ -4,6 +4,7 @@ import learn from './learn.yml'
 import util from './util.yml'
 import funny from './funny.yml'
 import ai from './ai.yml'
+import luomor from './luomor.yml'
 // import be from './be.yml'
 // import devOps from './dev-ops.yml'
 // import download from './download.yml'
@@ -29,6 +30,7 @@ export interface IMenuItem {
 
 /** 菜单导航数据 */
 export const menus: IMenuItem[] = [
+  luomor,
   util,
   ai,
   fe,

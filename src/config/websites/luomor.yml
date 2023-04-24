@@ -1,0 +1,35 @@
+title: 烙馍网
+icon: fa-lightbulb-o
+subMenu:
+  - title: 网站
+    links:
+      - title: 关注地方生活服务
+        description: 烙馍网关注地方小吃、美食、旅游、人文、文化、时尚、设计、休闲、娱乐、宠物、工作，是一个关于地方特色介绍的网站，包括为您提供最新最美味的小吃美食知识和技巧，以及有关小吃的历史和文化背景。烙馍（luò mó）是徐州一种特色传统面食，已有着2000多年的历史，类似煎饼又和煎饼不同，烙馍是用未发酵的面粉和成柔软的面团。
+        url: https://www.luomor.com/
+        logo: "https://www.luomor.com/favicon.ico"
+      - title: 文心AIGC - 人工智能ChatGPT
+        description: 文心AIGC，AIGC指利用人工智能技术来生成内容，其中包括文字、语音、代码、图像、视频、机器人动作等等。被认为是继PGC、UGC之后的新型内容创作方式。AIGC作为元宇宙的新方向，近几年迭代速度呈现指数级爆发，谷歌、Meta、百度等平台型巨头持续布局。
+        url: https://aigc.luomor.com/
+        logo: "https://aigc.luomor.com/favicon.ico"
+  - title: 电商
+    links:
+      - title: 烙馍省钱-优惠券领取
+        description: 烙馍省钱官网-每日更新天猫淘宝优惠券，更有9.9包邮专区，品牌优选，找券功能齐全。聚划算的优惠券，淘实惠的购物网站，大品牌商品可享折上折，各种超值商品只需一键搜索。特卖、低价、白菜价，尽在烙馍省钱
+        url: https://tb-m.luomor.com/
+        logo: "https://tb.luomor.com/favicon.ico"
+  - title: 游戏
+    links:
+      - title: soundraw
+        description: AI为你生成免版税音乐
+        url: https://soundraw.io/
+        logo: ""
+  - title: AI相关
+    links:
+      - title: 体验完整ChatGPT
+        description: 烙馍网 ChatGPT, 体验完整ChatGPT, AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
+        url: https://chatgpt.luomor.com/
+        logo: "https://chatgpt.luomor.com/favicon.ico"
+      - title: AI Prompt 提示词
+        description: AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
+        url: https://prompt-genius.luomor.com/
+        logo: "https://prompt-genius.luomor.com/favicon.ico"
