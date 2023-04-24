@@ -34,7 +34,7 @@ subMenu:
       - title: 甜言蜜语
         description: 甜言蜜语
         url: https://games.luomor.com/sweet-words
-        logo: ""
+        logo: "https://games.luomor.com/sweet-words/favicon.ico"
       - title: 心
         description: 心
         url: https://games.luomor.com/valentine/
@@ -58,7 +58,7 @@ subMenu:
       - title: 翻牌
         description: 翻牌
         url: https://games.luomor.com/memory/
-        logo: ""
+        logo: "https://games.luomor.com/memory/favicon.ico"
       - title: 一起答题（mobile）
         description: 一起答题（mobile）
         url: https://games.luomor.com/quiz-game
