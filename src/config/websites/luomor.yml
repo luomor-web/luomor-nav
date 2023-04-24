@@ -93,9 +93,77 @@ subMenu:
         logo: ""
   - title: Web应用
     links:
-      - title: soundraw
-        description: AI为你生成免版税音乐
-        url: https://soundraw.io/
+      - title: 滚屏
+        description: 滚屏
+        url: https://apps.luomor.com/2017iwwd/
+        logo: ""
+      - title: 流程图（pc）
+        description: 流程图（pc）
+        url: https://apps.luomor.com/aiflow/
+        logo: ""
+      - title: 百度地图
+        description: 百度地图
+        url: https://apps.luomor.com/bootstrap-baidu-map/
+        logo: ""
+      - title: 地球
+        description: 地球
+        url: https://apps.luomor.com/earth/
+        logo: ""
+      - title: 万圣前夜（mobile）
+        description: 万圣前夜（mobile）
+        url: https://apps.luomor.com/hallowmas/index1.html
+        logo: ""
+      - title: 圣诞节
+        description: 圣诞节
+        url: https://apps.luomor.com/xmas2020/
+        logo: ""
+      - title: 中国色
+        description: 中国色
+        url: https://apps.luomor.com/chinese-color/
+        logo: ""
+      - title: AR-Emoji
+        description: AR-Emoji
+        url: https://apps.luomor.com/emoji-scavenger-hunt/
+        logo: ""
+      - title: 红包
+        description: 红包
+        url: https://apps.luomor.com/foolredpacket/
+        logo: ""
+      - title: 心
+        description: 心
+        url: https://apps.luomor.com/math/heart.html
+        logo: ""
+      - title: sin
+        description: sin
+        url: https://apps.luomor.com/math/sin.html
+        logo: ""
+      - title: curve-a
+        description: curve-a
+        url: https://apps.luomor.com/math/curve-a.html
+        logo: ""
+      - title: curve-b
+        description: curve-b
+        url: https://apps.luomor.com/math/curve-b.html
+        logo: ""
+      - title: curve-c
+        description: curve-c
+        url: https://apps.luomor.com/math/curve-c.html
+        logo: ""
+      - title: curve-d
+        description: curve-d
+        url: https://apps.luomor.com/math/curve-d.html
+        logo: ""
+      - title: curve-e
+        description: curve-e
+        url: https://apps.luomor.com/math/curve-e.html
+        logo: ""
+      - title: summary-2020
+        description: summary-2020
+        url: https://apps.luomor.com/summary-2020/
+        logo: ""
+      - title: 圣诞节
+        description: 圣诞节
+        url: https://apps.luomor.com/xmas2021/
         logo: ""
   - title: AI相关
     links:

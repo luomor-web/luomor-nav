@@ -17,6 +17,9 @@ https://games.luomor.com/qixi-2022/
 https://games.luomor.com/qixi-my-2022/
 https://games.luomor.com/valentine4/
 https://games.luomor.com/submarine-game/policies/
+
+https://apps.luomor.com/3d-rotating-background-wall/
+https://apps.luomor.com/baby/2021/
 ```
 
 ```shell
