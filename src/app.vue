@@ -6,5 +6,4 @@ import { menus } from '@/config/websites'
 
 <template>
   <Layout :menus="menus" />
-  <GithubCorner />
 </template>
