@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     Copyright © 2023-present
-    <a href="https://github.com/luomor-web" target="_blank">Luomor</a>.
+    <a href="https://www.luomor.com" target="_blank">Luomor</a>.
   </div>
 </template>
 
