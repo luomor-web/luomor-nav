@@ -93,6 +93,14 @@ subMenu:
         logo: ""
   - title: Web应用
     links:
+      - title: 双色球随机选号
+        description: 双色球随机选号
+        url: https://apps.luomor.com/lottery-color-ball/
+        logo: ""
+      - title: 双色球随机选号
+        description: 双色球随机选号
+        url: https://apps.luomor.com/lottery-random/
+        logo: ""
       - title: 滚屏
         description: 滚屏
         url: https://apps.luomor.com/2017iwwd/
