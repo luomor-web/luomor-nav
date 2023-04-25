@@ -96,7 +96,7 @@ subMenu:
       - title: 双色球随机选号
         description: 双色球随机选号
         url: https://apps.luomor.com/lottery-color-ball/
-        logo: ""
+        logo: "https://apps.luomor.com/lottery-color-ball/favicon.ico"
       - title: 双色球随机选号
         description: 双色球随机选号
         url: https://apps.luomor.com/lottery-random/
