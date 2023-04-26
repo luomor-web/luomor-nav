@@ -101,6 +101,14 @@ subMenu:
         logo: ""
   - title: Web应用
     links:
+      - title: 烙馍网 - 体验完整ChatGPT
+        description: 烙馍网 ChatGPT, 体验完整ChatGPT, AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
+        url: https://chatgpt.luomor.com/
+        logo: "https://chatgpt.luomor.com/favicon.ico"
+      - title: 烙馍网 - AI Prompt 提示词
+        description: AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
+        url: https://prompt-genius.luomor.com/
+        logo: "https://prompt-genius.luomor.com/favicon.ico"
       - title: 双色球随机选号
         description: 双色球随机选号
         url: https://apps.luomor.com/lottery-color-ball/
@@ -180,6 +188,10 @@ subMenu:
       - title: 圣诞节
         description: 圣诞节
         url: https://apps.luomor.com/xmas2021/
+        logo: ""
+      - title: 烙馍网-图像识别
+        description: 图像识别, 中文识别
+        url: https://ai-image-recognize.luomor.com/test.php
         logo: ""
   - title: AI相关
     links:
