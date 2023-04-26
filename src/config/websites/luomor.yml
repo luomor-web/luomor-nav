@@ -133,10 +133,6 @@ subMenu:
         description: 地球
         url: https://apps.luomor.com/earth/
         logo: ""
-      - title: 万圣前夜（mobile）
-        description: 万圣前夜（mobile）
-        url: https://apps.luomor.com/hallowmas/index1.html
-        logo: ""
       - title: 圣诞节
         description: 圣诞节
         url: https://apps.luomor.com/xmas2020/
