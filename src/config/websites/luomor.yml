@@ -11,6 +11,14 @@ subMenu:
         description: 文心AIGC，AIGC指利用人工智能技术来生成内容，其中包括文字、语音、代码、图像、视频、机器人动作等等。被认为是继PGC、UGC之后的新型内容创作方式。AIGC作为元宇宙的新方向，近几年迭代速度呈现指数级爆发，谷歌、Meta、百度等平台型巨头持续布局。
         url: https://aigc.luomor.com/
         logo: "https://aigc.luomor.com/favicon.ico"
+      - title: 烙馍网 - 游戏导航
+        description: 游戏导航
+        url: https://games.luomor.com/
+        logo: "https://games.luomor.com/favicon.ico"
+      - title: 烙馍网 - 应用导航
+        description: 应用导航
+        url: https://apps.luomor.com/
+        logo: "https://apps.luomor.com/favicon.ico"
   - title: 电商
     links:
       - title: 烙馍省钱-优惠券领取
