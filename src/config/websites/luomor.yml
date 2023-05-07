@@ -117,6 +117,10 @@ subMenu:
         description: 双色球随机选号
         url: https://apps.luomor.com/lottery-random/
         logo: ""
+      - title: 缘计时器
+        description: 缘计时器
+        url: https://apps.luomor.com/yuan/
+        logo: "https://apps.luomor.com/yuan/favicon.ico"
       - title: 滚屏
         description: 滚屏
         url: https://apps.luomor.com/2017iwwd/
