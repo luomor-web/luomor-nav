@@ -25,6 +25,20 @@ subMenu:
         description: 烙馍省钱官网-每日更新天猫淘宝优惠券，更有9.9包邮专区，品牌优选，找券功能齐全。聚划算的优惠券，淘实惠的购物网站，大品牌商品可享折上折，各种超值商品只需一键搜索。特卖、低价、白菜价，尽在烙馍省钱
         url: https://tb-m.luomor.com/
         logo: "https://tb.luomor.com/favicon.ico"
+  - title: AI相关
+    links:
+      - title: 体验完整ChatGPT
+        description: 烙馍网 ChatGPT, 体验完整ChatGPT, AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
+        url: https://chatgpt.luomor.com/
+        logo: "https://chatgpt.luomor.com/favicon.ico"
+      - title: AI Prompt 提示词
+        description: AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
+        url: https://prompt-genius.luomor.com/
+        logo: "https://prompt-genius.luomor.com/favicon.ico"
+      - title: AI提示词笔记
+        description: AI提示词笔记，可以将输入的中文翻译为英文，可以管理提示词，记录提示词，导出提示词
+        url: https://prompt-note.luomor.com/apps/ops/
+        logo: "https://prompt-note.luomor.com/apps/ops/icon.png"
   - title: 游戏
     links:
       - title: 2048
@@ -193,13 +207,3 @@ subMenu:
         description: 图像识别, 中文识别
         url: https://ai-image-recognize.luomor.com/test.php
         logo: ""
-  - title: AI相关
-    links:
-      - title: 体验完整ChatGPT
-        description: 烙馍网 ChatGPT, 体验完整ChatGPT, AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
-        url: https://chatgpt.luomor.com/
-        logo: "https://chatgpt.luomor.com/favicon.ico"
-      - title: AI Prompt 提示词
-        description: AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
-        url: https://prompt-genius.luomor.com/
-        logo: "https://prompt-genius.luomor.com/favicon.ico"
