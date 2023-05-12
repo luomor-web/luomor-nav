@@ -41,6 +41,14 @@ subMenu:
         logo: "https://prompt-note.luomor.com/apps/ops/icon.png"
   - title: 游戏
     links:
+      - title: 猪了个猪
+        description: 猪了个猪
+        url: https://games.luomor.com/zhulegezhu
+        logo: ""
+      - title: 卡牌泡泡龙
+        description: 卡牌泡泡龙
+        url: https://games.luomor.com/monsu-bubble-game/
+        logo: ""
       - title: 2048
         description: 2048
         url: https://games.luomor.com/2048/
@@ -108,10 +116,6 @@ subMenu:
       - title: 抢红包
         description: 抢红包
         url: https://games.luomor.com/car/
-        logo: ""
-      - title: 猪了个猪
-        description: 猪了个猪
-        url: https://games.luomor.com/zhulegezhu
         logo: ""
   - title: Web应用
     links:
