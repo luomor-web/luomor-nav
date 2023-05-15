@@ -45,8 +45,8 @@ subMenu:
         description: 猪了个猪
         url: https://games.luomor.com/zhulegezhu
         logo: ""
-      - title: 卡牌泡泡龙
-        description: 卡牌泡泡龙
+      - title: 卡牌泡泡龙（pc）
+        description: 卡牌泡泡龙（pc）
         url: https://games.luomor.com/monsu-bubble-game/
         logo: ""
       - title: 2048
