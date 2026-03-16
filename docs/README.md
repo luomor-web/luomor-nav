@@ -14,6 +14,11 @@ AI助手 艾瑞
 https://www.npmjs.com/package/@yiluxiangbei/eslint-config
 
 nvm use v16.15.1
+
+nvm use v18.20.5
+pnpm install
+npm install kolorist
+
 https://nav-web.luomor.com
 https://luomor-web.github.io
 
