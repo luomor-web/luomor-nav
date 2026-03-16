@@ -1,6 +1,8 @@
 #! /bin/bash
 # git commit -a -m 'update'
 git checkout main
+git commit --no-verify -a -m 'update'
+git push -u origin main
 npm run build
 git checkout gh-pages
 rm -rf assets/*
