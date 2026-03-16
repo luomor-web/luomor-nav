@@ -7,10 +7,6 @@ export {}
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
-    ElButton: typeof import('element-plus/es')['ElButton']
-    ElForm: typeof import('element-plus/es')['ElForm']
-    ElFormItem: typeof import('element-plus/es')['ElFormItem']
-    ElInput: typeof import('element-plus/es')['ElInput']
     Feedback: typeof import('./src/components/feedback/index.vue')['default']
     GithubCorner: typeof import('./src/components/github-corner/index.vue')['default']
     LazyloadImage: typeof import('./src/components/lazyload-image/index.vue')['default']

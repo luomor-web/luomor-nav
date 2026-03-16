@@ -17,7 +17,8 @@ nvm use v16.15.1
 
 nvm use v18.20.5
 pnpm install
-npm install kolorist
+
+git commit --no-verify  -a -m 'update'
 
 https://nav-web.luomor.com
 https://luomor-web.github.io
