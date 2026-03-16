@@ -3,12 +3,12 @@ icon: fa-lightbulb-o
 subMenu:
   - title: 网站
     links:
-      - title: 关注地方生活服务
-        description: 烙馍网关注地方小吃、美食、旅游、人文、文化、时尚、设计、休闲、娱乐、宠物、工作，是一个关于地方特色介绍的网站，包括为您提供最新最美味的小吃美食知识和技巧，以及有关小吃的历史和文化背景。烙馍（luò mó）是徐州一种特色传统面食，已有着2000多年的历史，类似煎饼又和煎饼不同，烙馍是用未发酵的面粉和成柔软的面团。
+      - title: 关注AI与生活
+        description: 烙馍网关注AI与生活，Agent Skills、美食、旅游、人文、文化、休闲、娱乐、游戏。烙馍（luò mó）是徐州一种特色传统面食，已有着2000多年的历史，类似煎饼又和煎饼不同，烙馍是用未发酵的面粉和成柔软的面团。 
         url: https://www.luomor.com/
         logo: "https://www.luomor.com/favicon.ico"
-      - title: 文心AIGC - 人工智能ChatGPT
-        description: 文心AIGC，AIGC指利用人工智能技术来生成内容，其中包括文字、语音、代码、图像、视频、机器人动作等等。被认为是继PGC、UGC之后的新型内容创作方式。AIGC作为元宇宙的新方向，近几年迭代速度呈现指数级爆发，谷歌、Meta、百度等平台型巨头持续布局。
+      - title: 烙馍AI智能体技能 
+        description: 烙馍AI智能体技能，专注 AI 智能体技能开发与应用，提供实用、易用、可快速部署的智能体技能方案，助力 AI 能力落地 
         url: https://aigc.luomor.com/
         logo: "https://aigc.luomor.com/favicon.ico"
       - title: 烙馍网 - 游戏导航
