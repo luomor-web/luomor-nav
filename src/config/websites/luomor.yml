@@ -3,11 +3,11 @@ icon: fa-lightbulb-o
 subMenu:
   - title: 网站
     links:
-      - title: 关注AI与生活
+      - title: 烙馍网-关注AI与生活
         description: 烙馍网关注AI与生活，Agent Skills、美食、旅游、人文、文化、休闲、娱乐、游戏。烙馍（luò mó）是徐州一种特色传统面食，已有着2000多年的历史，类似煎饼又和煎饼不同，烙馍是用未发酵的面粉和成柔软的面团。 
         url: https://www.luomor.com/
         logo: "https://www.luomor.com/favicon.ico"
-      - title: 烙馍AI智能体技能 
+      - title: 烙馍AI智能体技能-Agent Skills 
         description: 烙馍AI智能体技能，专注 AI 智能体技能开发与应用，提供实用、易用、可快速部署的智能体技能方案，助力 AI 能力落地 
         url: https://aigc.luomor.com/
         logo: "https://aigc.luomor.com/favicon.ico"
