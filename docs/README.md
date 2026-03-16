@@ -12,7 +12,7 @@ AI助手 艾瑞
 大模型 艾瑞
 
 https://nav-web.luomor.com
-https://nav-web.luomor.com/
+https://luomor-web.github.io
 
 https://games.luomor.com/qixi-2022/
 https://games.luomor.com/qixi-my-2022/
