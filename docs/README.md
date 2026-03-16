@@ -17,6 +17,7 @@ nvm use v16.15.1
 
 nvm use v18.20.5
 pnpm install
+npm run build
 
 git commit --no-verify  -a -m 'update'
 
