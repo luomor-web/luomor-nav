@@ -11,6 +11,8 @@ ai写作工具
 AI助手 艾瑞
 大模型 艾瑞
 
+https://www.npmjs.com/package/@yiluxiangbei/eslint-config
+
 nvm use v16.15.1
 https://nav-web.luomor.com
 https://luomor-web.github.io
