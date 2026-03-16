@@ -34,7 +34,7 @@ subMenu:
       - title: AI Prompt 提示词
         description: AI Prompt 提示词, ChatGPT 提示词, NLP 提示词, ChatGPT 指令大全
         url: https://prompt-genius.luomor.com/
-        logo: "https://prompt-genius.luomor.com/favicon.ico"
+        logo: "https://prompt-genius.luomor.com/img/logo.svg"
       - title: AI提示词笔记
         description: AI提示词笔记，可以将输入的中文翻译为英文，可以管理提示词，记录提示词，导出提示词
         url: https://prompt-note.luomor.com/apps/ops/
