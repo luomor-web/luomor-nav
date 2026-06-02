@@ -19,6 +19,8 @@ nvm use v18.20.5
 pnpm install
 npm run build
 
+nvm use v20.18.1
+
 git commit --no-verify  -a -m 'update'
 
 https://nav-web.luomor.com
