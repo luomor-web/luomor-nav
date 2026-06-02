@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://luomor-web.github.io/luomor-nav" target="_blank">
-    <img src="./public/logo.png" alt="luomor-nave-logo">
+    <img style="background-color:#f0f0f0" src="./public/logo.png" alt="luomor-nave-logo">
   </a>
 </p>
 
