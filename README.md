@@ -1,4 +1,4 @@
-<p style="background-color:#f0f0f0;" align="center">
+<p style="background-color:#black;" align="center">
   <a href="https://luomor-web.github.io/luomor-nav" target="_blank">
     <img src="./public/logo.png" alt="luomor-nave-logo">
   </a>
