@@ -41,4 +41,4 @@ $ pnpm dev
 
 ## 感谢
 
-本项目使用了 [nav.luomor.com](http://nav.luomor.com/)（烙馍网网址导航） 的设计风格，简约清爽，在此感谢主题作者 [ViggoZ](https://github.com/ViggoZ) :heart:
+本项目使用了 [nav-web.luomor.com](http://nav-web.luomor.com/)（烙馍网网址导航） 的设计风格，简约清爽，在此感谢主题作者 [ViggoZ](https://github.com/ViggoZ) :heart:
