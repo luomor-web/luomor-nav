@@ -1,0 +1,6 @@
+{
+  "extends": ["@yiluxiangbei"],
+  "rules": {
+    "no-console": "warn"
+  }
+}

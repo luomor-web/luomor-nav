@@ -1,0 +1,20 @@
+name: ⭐ 推荐实用网站
+description: 欢迎推荐你喜欢的使用网站哦
+title: 【新增实用网站】
+labels: new-link
+body:
+- type: input
+  attributes:
+    label: 标题
+    description: 推荐的实用网站标题
+- type: input
+  attributes:
+    label: 链接
+    description: 推荐的实用网站链接地址
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: 描述
+    description: 关于推荐的实用网站描述
+
